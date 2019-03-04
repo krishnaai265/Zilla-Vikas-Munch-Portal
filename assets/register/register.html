@@ -1,0 +1,75 @@
+<!doctype HTML>
+<html>
+<head>
+	<title></title>
+	<style>
+	* { border:0px solid #8cbf46; color:#333; box-sizing:border-box; /* background:#333; */ }
+	body { height:100vh; padding:0; margin:0; display:flex; font-family : "Arial"; }
+	form { display:flex; justify-content:center; align-items:center; flex-direction:column; width:100%; }
+	form>div { position:relative; margin:10px; overflow:hidden; width:100%; display:flex; justify-content:center; }
+	form div>* { position:relative; width:80%; margin:0px; padding:10px; font-size:0.94em; border:none; border:1px solid #333; outline:none; background:#fff; }
+	
+	/*form>div::after {
+		content:"";
+		position:absolute;
+		top:0;
+		width:50px;
+		transform:rotate(-45deg) translate(-6px,-22px);
+		background:#333;
+		z-index:5;
+		border-bottom:1px solid #8cbf46;
+		height:17px;
+		background:#333;
+	}
+	
+	form>div::before {
+		content:"";
+		position:absolute;
+		bottom:0;
+		right:0;
+		width:50px;
+		transform:rotate(-45deg) translate(16px,22px);
+		background:#8cbf46;
+		z-index:5;
+		border-top:1px solid #8cbf46;
+		height:17px;
+		background:#333;
+	}*/
+
+	input[type=submit] { cursor:pointer; font-weight:bold; background:url("a.jpg"); transition: all 0.4s; color:#333; border:1px solid #333; }
+	input[type=submit]:hover { background:#333; color:#fff; border:1px solid #8cbf46; }
+	</style>
+</head>
+<body>
+	<form>
+	<div>
+		<input placeholder="Name" />
+	</div>
+	<div>
+		<input placeholder="Email" />
+	</div>
+	<div>
+		<input placeholder="Phone" />
+	</div>
+	<div>
+		<select>
+			<option>select state</option>
+		</select>
+	</div>
+	<div>
+		<select>
+			<option>select district</option>
+		</select>
+	</div>
+	<div>
+		<input type="password" placeholder="Password" />
+	</div>
+	<div>
+		<input type="password" placeholder="Repeat Password" />
+	</div>
+	<div>
+		<input type="submit" />
+	</div>
+	</form>
+</body>
+</html>

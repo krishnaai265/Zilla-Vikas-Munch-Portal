@@ -1,0 +1,326 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aicte3.com" resolutions="1x" timestamp="1522333873606">
+  <folder name="css">
+    <file name="site_global.css" crc="137421123"/>
+    <file name="master_a-master.css" crc="4007966088" ref="signup:login"/>
+    <file name="index.css" crc="3829858573" ref="index"/>
+    <file name="nomq_index.css" crc="3768754199" ref="index"/>
+    <file name="signup.css" crc="46782337" ref="signup"/>
+    <file name="login.css" crc="256833675" ref="login"/>
+    <file name="master_b-master.css" crc="3802103715" ref="checkproblemslocation:submiitlocation:ministry:submitreport:submprob:problems:probblemdetail"/>
+    <file name="checkproblemslocation.css" crc="205959722" ref="checkproblemslocation"/>
+    <file name="submiitlocation.css" crc="3790386604" ref="submiitlocation"/>
+    <file name="problems.css" crc="3823987084" ref="problems"/>
+    <file name="probblemdetail.css" crc="228723347" ref="probblemdetail"/>
+    <file name="iefonts_index.css" crc="61256402" ref="index"/>
+    <file name="ministry.css" crc="217575993" ref="ministry"/>
+    <file name="submitreport.css" crc="3780960052" ref="submitreport"/>
+    <file name="submprob.css" crc="4032112770" ref="submprob"/>
+  </folder>
+  <folder name="assets">
+    <file name="screenshot.png" crc="3760321204" seo="true" mt="1521361785000"/>
+    <file name="iefonts_index.css" crc="61256402" seo="true" mt="1522169322000"/>
+    <file name="topanimation.html" crc="3899545626" seo="true" mt="1522299118000"/>
+    <file name="topanimation.js" crc="4102426874" seo="true" mt="1522299118000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:problems:probblemdetail:submprob:submitreport"/>
+    <file name="museutils.js" crc="3803043152" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:problems:probblemdetail:submprob:submitreport"/>
+    <file name="whatinput.js" crc="86476730" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:problems:probblemdetail:submprob:submitreport"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:problems:probblemdetail:submprob:submitreport"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:problems:probblemdetail:submprob:submitreport"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:problems:probblemdetail:submprob:submitreport"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="login:signup:checkproblemslocation:ministry:submiitlocation:problems:probblemdetail:submprob:submitreport"/>
+    <file name="html5shiv.js" crc="4241844378" ref="login:signup:checkproblemslocation:ministry:submiitlocation:problems:probblemdetail:submprob:submitreport"/>
+  </folder>
+  <folder name="images">
+    <file name="fulljpg.png" crc="409320656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 3.png" crc="4127092947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer2.png" crc="178057084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="login--register.png" crc="278919551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prototype.png" crc="224710765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="layer1.png" crc="336267045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="software-development.jpg" crc="3830311431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_30993049_m-2015-crop-u5535.jpg" crc="63004989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="software-development-crop-u4850.jpg" crc="340339830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_30993049_m-2015-crop-u55352.jpg" crc="41035731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="submit-report.png" crc="3835849657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="software-development-crop-u48502.jpg" crc="340339830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_30993049_m-2015-crop-u55353.jpg" crc="41035731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="software-development-crop-u48503.jpg" crc="340339830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_30993049_m-2015-crop-u55354.jpg" crc="41035731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fulljpg600x305.png" crc="505716865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 3600x306.png" crc="141945703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer2600x255.png" crc="491947788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer1600x184.png" crc="39304200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="software-development-crop-u48504.jpg" crc="340339830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_30993049_m-2015-crop-u55355.jpg" crc="41035731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social-groups-crop-u6830.png" crc="4136075866" seo="true" ref="signup">
+      <caption webpage="signup" alt=""/>
+    </file>
+    <file name="20151012_561baed03a54e.png" crc="397860962" seo="true" ref="login">
+      <caption webpage="login" alt=""/>
+      <caption webpage="ministry" alt=""/>
+    </file>
+    <file name="how-to-submit.png" crc="361644958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="get-selected.png" crc="15082911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumblr_n6rzpcsmk41st5lhmo1_1280.jpg" crc="4207429703" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how-to-submit-crop-u8647.png" crc="3809191695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="submit-report-crop-u8661.png" crc="4263121176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="get-selected-crop-u8683.png" crc="64040699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how-to-submit-crop-u86472.png" crc="3809191695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="submit-report-crop-u86612.png" crc="4263121176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="get-selected-crop-u86832.png" crc="64040699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how-to-submit-crop-u86473.png" crc="3809191695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="submit-report-crop-u86613.png" crc="4263121176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="get-selected-crop-u86833.png" crc="64040699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how-to-submit-crop-u86474.png" crc="3809191695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="submit-report-crop-u86614.png" crc="4263121176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="get-selected-crop-u86834.png" crc="64040699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1a68e277.jpg" crc="519368492" ref="checkproblemslocation:submprob:ministry">
+      <caption webpage="checkproblemslocation" alt=""/>
+      <caption webpage="problems" alt=""/>
+      <caption webpage="ministry" alt=""/>
+      <caption webpage="submprob" alt=""/>
+    </file>
+    <file name="location.png" crc="259294624" seo="true" ref="checkproblemslocation:submiitlocation">
+      <caption webpage="checkproblemslocation" alt=""/>
+      <caption webpage="submiitlocation" alt=""/>
+    </file>
+    <file name="1a-300x216.jpg" crc="359165787" seo="true" ref="ministry">
+      <caption webpage="ministry" alt=""/>
+    </file>
+    <file name="fill 4-u10663.png" crc="454286814" ref="problems"/>
+    <file name="articleicon.png" crc="65941057" seo="true" ref="submitreport">
+      <caption webpage="submitreport" alt=""/>
+      <caption webpage="untitled-10" alt=""/>
+    </file>
+    <file name="bggg.jpg" crc="3968403544" ref="submitreport:ministry:problems:probblemdetail">
+      <caption webpage="problems" alt=""/>
+      <caption webpage="ministry" alt=""/>
+      <caption webpage="submitreport" alt=""/>
+      <caption webpage="probblemdetail" alt=""/>
+      <caption webpage="untitled-10" alt=""/>
+    </file>
+    <file name="zivima.png" crc="3901454523" seo="true" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:submprob:problems:probblemdetail:submitreport">
+      <caption webpage="checkproblemslocation" alt=""/>
+      <caption webpage="problems" alt=""/>
+      <caption webpage="ministry" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="submiitlocation" alt=""/>
+      <caption webpage="signup" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="submprob" alt=""/>
+      <caption webpage="submitreport" alt=""/>
+      <caption webpage="probblemdetail" alt=""/>
+    </file>
+    <file name="google---flat-circle-(color_svg).svg" crc="109666143" seo="true" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:submprob:problems:probblemdetail:submitreport">
+      <caption webpage="checkproblemslocation" alt=""/>
+      <caption webpage="problems" alt=""/>
+      <caption webpage="ministry" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="submiitlocation" alt=""/>
+      <caption webpage="signup" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="submprob" alt=""/>
+      <caption webpage="submitreport" alt=""/>
+      <caption webpage="probblemdetail" alt=""/>
+    </file>
+    <file name="google - flat circle (color_svg)_poster_.png" crc="221609857" ref="index:login:submprob"/>
+    <file name="twitter-flat-circle-(color_svg).svg" crc="4102328541" seo="true" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:submprob:problems:probblemdetail:submitreport">
+      <caption webpage="checkproblemslocation" alt=""/>
+      <caption webpage="problems" alt=""/>
+      <caption webpage="ministry" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="submiitlocation" alt=""/>
+      <caption webpage="signup" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="submprob" alt=""/>
+      <caption webpage="submitreport" alt=""/>
+      <caption webpage="probblemdetail" alt=""/>
+    </file>
+    <file name="twitter flat circle (color_svg)_poster_.png" crc="4119007870" ref="index:login:submprob"/>
+    <file name="fb-flat-circle-(color_svg).svg" crc="215875945" seo="true" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:submprob:problems:probblemdetail:submitreport">
+      <caption webpage="checkproblemslocation" alt=""/>
+      <caption webpage="problems" alt=""/>
+      <caption webpage="ministry" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="submiitlocation" alt=""/>
+      <caption webpage="signup" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="submprob" alt=""/>
+      <caption webpage="submitreport" alt=""/>
+      <caption webpage="probblemdetail" alt=""/>
+    </file>
+    <file name="fb flat circle (color_svg)_poster_.png" crc="4275797912" ref="index:login:submprob"/>
+    <file name="youtube-flat-circle-(color_svg).svg" crc="4055302724" seo="true" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:submprob:problems:probblemdetail:submitreport">
+      <caption webpage="checkproblemslocation" alt=""/>
+      <caption webpage="problems" alt=""/>
+      <caption webpage="ministry" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="submiitlocation" alt=""/>
+      <caption webpage="signup" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="submprob" alt=""/>
+      <caption webpage="submitreport" alt=""/>
+      <caption webpage="probblemdetail" alt=""/>
+    </file>
+    <file name="youtube flat circle (color_svg)_poster_.png" crc="233109373" ref="index:login:submprob"/>
+    <file name="instagram-flat-circle-(color_svg).svg" crc="3940519302" seo="true" ref="index:login:signup:checkproblemslocation:ministry:submiitlocation:submprob:problems:probblemdetail:submitreport">
+      <caption webpage="checkproblemslocation" alt=""/>
+      <caption webpage="problems" alt=""/>
+      <caption webpage="ministry" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="submiitlocation" alt=""/>
+      <caption webpage="signup" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="submprob" alt=""/>
+      <caption webpage="submitreport" alt=""/>
+      <caption webpage="probblemdetail" alt=""/>
+    </file>
+    <file name="instagram flat circle (color_svg)_poster_.png" crc="4241341512" ref="index:login:submprob"/>
+    <file name="twemo.svg" crc="307613690" seo="true" ref="submprob">
+      <caption webpage="submprob" alt=""/>
+    </file>
+    <file name="twemo_poster_.png" crc="480967280" ref="submprob"/>
+  </folder>
+  <file name="index.html" crc="389387899" seo="true" mt="1522331305723" redirect="true"/>
+  <file name="login.html" crc="199627032" seo="true" mt="1522220778901" redirect="true"/>
+  <file name="signup.html" crc="56811449" seo="true" mt="1522220778901" redirect="true"/>
+  <file name="checkproblemslocation.html" crc="253554145" seo="true" mt="1522227760247" redirect="true"/>
+  <file name="ministry.html" crc="4042571970" seo="true" mt="1522333856610" redirect="true"/>
+  <file name="submiitlocation.html" crc="3834160042" seo="true" mt="1522227760247" redirect="true"/>
+  <file name="problems.html" crc="4056161984" seo="true" mt="1522227760247" redirect="true"/>
+  <file name="probblemdetail.html" crc="255471685" seo="true" mt="1522227760247" redirect="true"/>
+  <file name="submprob.html" crc="3832456904" seo="true" mt="1522234941536" redirect="true"/>
+  <file name="submitreport.html" crc="4053497181" seo="true" mt="1522227760247" redirect="true"/>
+</manifest>
